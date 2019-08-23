@@ -24,7 +24,7 @@ public class HelloWorld {
 		System.out.println("This is automated build");
 		System.out.println("This is automated build again");
 		System.out.println("Automated build 3");
-		System.out.println("Fourth Build
+		System.out.println("Fourth Build");
     }
 
 }
